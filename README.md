@@ -2,11 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=&animation=fadeIn&fontColor=000000&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Geunhwa's GitHub 👩🏻‍💻</h2>  
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Geunhwa's GitHub 👩🏻‍💻</h1>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     <div align= "center">
-    <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 Tech Stacks </h4> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
@@ -19,7 +19,7 @@
           </div>
     </div>
     <div align= "center"> 
-    <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Stats </h4> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geunhwa37&layout=compact&bg_color=180,00000000,00000000&title_color=474747&text_color=474747"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geunhwa37&layout=compact&bg_color=180,00000000,00000000&title_color=474747&text_color=474747"
            /> </div> 
     </div>
     
