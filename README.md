@@ -23,6 +23,6 @@
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔥Stats🔥 </h3> 
     </div>
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geunhwa37&layout=donut&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geunhwa37&layout=donut&count_private=true"/>
     </p>
     
