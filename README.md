@@ -26,7 +26,7 @@
 </div>
 <div align="center">
     
-[![Top Langs](https://github-readme-stats-udqm.vercel.app/api/top-langs/?username=geunhwa37&include_forks=true&count_private=true&layout=donut)]
+![Top Langs](https://github-readme-stats-udqm.vercel.app/api/top-langs/?username=geunhwa37&count_private=true&layout=donut)
 
 </div>
 
