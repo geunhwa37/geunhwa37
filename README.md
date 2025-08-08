@@ -25,7 +25,9 @@
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔥Stats🔥 </h3> 
 </div>
 <div align="center">
+    
 [![Top Langs](https://github-readme-stats-udqm.vercel.app/api/top-langs/?username=geunhwa37&include_forks=true&count_private=true&layout=donut)]
+
 </div>
 
     
