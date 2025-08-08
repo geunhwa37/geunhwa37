@@ -22,7 +22,6 @@
 </div>
 <div align= "center"> 
     <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📍 Stats </h4> 
-    <br/>
 </div>
 <div align="center">
     
