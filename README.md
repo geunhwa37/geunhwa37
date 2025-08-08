@@ -26,7 +26,7 @@
 </div>
 <div align="center">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geunhwa37" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geunhwa37&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
