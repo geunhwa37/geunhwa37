@@ -7,7 +7,6 @@
 </div>
 <div align= "center">
     <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚡ Tech Stacks </h4>
-    <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
           <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
