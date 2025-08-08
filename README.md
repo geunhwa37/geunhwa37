@@ -27,6 +27,8 @@
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geunhwa37&layout=donut&include_forks=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-udqm-1wocgj18p-geunhwa37s-projects.vercel.app/api/top-langs/?username=geunhwa37&count_private=true&layout=donut)]
+
 
 </div>
 
