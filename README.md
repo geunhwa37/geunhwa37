@@ -1,10 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=&animation=fadeIn&fontColor=000000&fontSize=50" />
 </div>
-<div align= "center"> 
-    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Geunhwa's GitHub 👩🏻‍💻</h1>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> </div> 
-</div>
 <div align= "center">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚡ Tech Stacks </h3>
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
